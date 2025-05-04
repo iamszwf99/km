@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import KnowledgeManagementTool from './KnowledgeManagementTool';
 
 function App() {
   return (
